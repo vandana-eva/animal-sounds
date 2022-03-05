@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(255, 116, 213);
+}
+.header_div {
+    font-family: serif;
+    color: rgb(214, 1, 150);
+}
+#result_label {
+font-family: cursive;
+color: rgb(126, 0, 0);
+}
+.header_div p {
+font-family: sans-serif;
+color:rgb(196, 0, 68);
+}
+.copy_right_footer {
+    position: fixed;
+    color: rgb(255, 182, 233);
+    width:100%;
+    line-height:2;
+    text-align: center;
+    background-color: rgb(255, 43, 191);
+    height:20%;
+    bottom:0;
+    text-shadow:5px 5px 5px rgb(117, 0, 88);
+}
